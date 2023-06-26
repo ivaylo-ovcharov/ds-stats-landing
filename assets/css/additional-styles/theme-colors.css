@@ -1,0 +1,15 @@
+.theme-dark {
+    --background-surface: #011627; /* vs code - night owl bg */
+    --text-heading: #D9E3EA;   /* gray-200 */
+    --text-body: #9BA9B4;   /* gray-400 */
+    --text-body-hover: #D9E3EA;   /* gray-200 */
+    --border-default: #25282C;  /* gray-800 */
+}
+
+.theme-light {
+    --background-surface: #FFFFFF;
+    --text-heading: #24292E;  /* vs code - github theme */
+    --text-body: #55595F;   /* gray-600 */
+    --text-body-hover: #D9E3EA;   /* gray-200 */
+    --border-default: #D9E3EA;  /* gray-200 */
+}
