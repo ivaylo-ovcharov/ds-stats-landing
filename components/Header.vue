@@ -22,7 +22,14 @@
           </ul> -->
 
           <ul class="flex justify-end flex-wrap items-center">
-            <HeaderThemeSwitch />
+            <!-- <HeaderThemeSwitch /> -->
+            <a
+              href="https://dsstats.ivodev.com/"
+              class="btn px-4 text-white hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0 cursor-pointer"
+              style="background: var(--colorPrimary)"
+            >
+              Try it out now</a
+            >
             <!-- <li>
               <a
                 href="#0"

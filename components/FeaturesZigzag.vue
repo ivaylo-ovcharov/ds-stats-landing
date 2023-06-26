@@ -44,7 +44,7 @@
                 >
                   More speed. Less spend
                 </div>
-                <h3 class="h3 mb-3">Keep projects on schedule</h3>
+                <h3 class="h3 mb-3">Get high level overview</h3>
                 <p class="text-xl text-gray-400 mb-4">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -117,7 +117,7 @@
                 >
                   More speed. Less spend
                 </div>
-                <h3 class="h3 mb-3">Keep projects on schedule</h3>
+                <h3 class="h3 mb-3">Components status</h3>
                 <p class="text-xl text-gray-400 mb-4">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -190,7 +190,7 @@
                 >
                   More speed. Less spend
                 </div>
-                <h3 class="h3 mb-3">Keep projects on schedule</h3>
+                <h3 class="h3 mb-3">All your contributions on one place</h3>
                 <p class="text-xl text-gray-400 mb-4">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.

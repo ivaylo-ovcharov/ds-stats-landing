@@ -12,7 +12,7 @@
             data-aos="fade-up"
             data-aos-anchor="[data-aos-id-cta]"
           >
-            Wanna have a quick chat?
+            Wanna try out the prototype?
           </h1>
           <p
             class="text-xl text-body mb-8"
@@ -20,8 +20,7 @@
             data-aos-delay="200"
             data-aos-anchor="[data-aos-id-cta]"
           >
-            I would love to hear your feedback on the page or just have a
-            regular chat
+            lorem ipsum dolor sit amet, consectet, dolor sit amet, consectet
           </p>
 
           <!-- CTA button -->
@@ -32,13 +31,11 @@
             data-aos-anchor="[data-aos-id-cta]"
           >
             <a
-              class="btn px-4 text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0"
-              href="https://discord.com/channels/1104304995022667846/1104304995505029122"
-              target="_blank"
+              href="https://dsstats.ivodev.com/"
+              class="btn px-4 text-white hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0 cursor-pointer"
+              style="background: var(--colorPrimary)"
             >
-              <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-
-              Let's grab a coffee</a
+              Try it out now</a
             >
           </div>
 

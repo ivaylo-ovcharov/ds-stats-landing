@@ -49,10 +49,11 @@
             <!-- Bring your design system to developers -->
           </h1>
           <p class="text-xl text-gray-400 mb-8">
-            Every feature in Open PRO makes things easy to build, pleasant to
-            create, and simple to manage.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque
+            consequuntur velit quod voluptatibus fuga
           </p>
           <a
+            href="https://dsstats.ivodev.com/"
             class="btn px-4 text-white hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0 cursor-pointer"
             style="background: var(--colorPrimary)"
           >
