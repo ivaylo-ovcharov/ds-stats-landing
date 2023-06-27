@@ -9,7 +9,7 @@
           >
             Reach goals that matter
           </div>
-          <h1 class="h2 mb-4">One product, unlimited solutions</h1>
+          <h1 class="h2 mb-4">Improve your visibility</h1>
           <p class="text-xl text-gray-400">
             Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
             officia deserunt mollit laborum — semper quis lectus nulla.
@@ -18,7 +18,7 @@
 
         <!-- Items -->
         <div class="grid gap-20">
-          <!-- 1st item -->
+          <!-- 3rd item -->
           <div class="md:grid md:grid-cols-12 md:gap-6 items-center">
             <!-- Image -->
             <div
@@ -27,10 +27,10 @@
             >
               <img
                 class="max-w-full mx-auto md:max-w-none h-auto"
-                src="/stats/dashboard-dark.png"
+                src="/stats/features-dark.png"
                 width="540"
                 height="405"
-                alt="Features 01"
+                alt="Features 03"
               />
             </div>
             <!-- Content -->
@@ -44,10 +44,10 @@
                 >
                   More speed. Less spend
                 </div>
-                <h3 class="h3 mb-3">Get high level overview</h3>
+                <h3 class="h3 mb-3">Design/Dev Handoff</h3>
                 <p class="text-xl text-gray-400 mb-4">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Get your features broken down. Help your developers to
+                  understand the feature faster.
                 </p>
                 <ul class="text-lg text-gray-400 -mb-2">
                   <li class="flex items-center mb-2">
@@ -164,7 +164,7 @@
             </div>
           </div>
 
-          <!-- 3rd item -->
+          <!-- 1st item -->
           <div class="md:grid md:grid-cols-12 md:gap-6 items-center">
             <!-- Image -->
             <div
@@ -173,10 +173,10 @@
             >
               <img
                 class="max-w-full mx-auto md:max-w-none h-auto"
-                src="/stats/contributions-dark.png"
+                src="/stats/dashboard-dark.png"
                 width="540"
                 height="405"
-                alt="Features 03"
+                alt="Features 01"
               />
             </div>
             <!-- Content -->
@@ -190,7 +190,7 @@
                 >
                   More speed. Less spend
                 </div>
-                <h3 class="h3 mb-3">All your contributions on one place</h3>
+                <h3 class="h3 mb-3">Get high level overview</h3>
                 <p class="text-xl text-gray-400 mb-4">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.

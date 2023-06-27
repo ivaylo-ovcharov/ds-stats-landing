@@ -42,7 +42,7 @@
         </nav>
 
         <!-- Mobile menu -->
-        <div class="md:hidden w-full">
+        <!-- <div class="md:hidden w-full">
           <div class="flex justify-between">
             <button
               class="hamburger"
@@ -109,7 +109,7 @@
               </li>
             </ul>
           </nav>
-        </div>
+        </div> -->
       </div>
     </div>
   </header>

@@ -49,8 +49,8 @@
             <!-- Bring your design system to developers -->
           </h1>
           <p class="text-xl text-gray-400 mb-8">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque
-            consequuntur velit quod voluptatibus fuga
+            The platform that visualize each building peace of your design
+            system together with it's status
           </p>
           <a
             href="https://dsstats.ivodev.com/"
@@ -63,7 +63,7 @@
         <!-- Image -->
         <img
           class="mx-auto"
-          src="/stats/features-dark.png"
+          src="/stats/components-dark.png"
           width="768"
           height="432"
           alt="Hero"
